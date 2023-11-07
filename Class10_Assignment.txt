@@ -1,0 +1,58 @@
+Task: Explore in Google and Make a document :
+
+1. How to filter data in pandas dataframe?
+2. Types of data filters in pandas dataframe?
+
+Task: Write a program
+
+Q> create and import below files
+
+1. Create a friend_names.xls file  (atleast 10 names, columns are FriendName,Quality)
+Q1> create a dataframe which contains only your intelligent friends list.
+Q2> create a dataframe which contains only your funny friends list.
+
+
+2. Create a family_members.xls file  (atleast 10 names, columns are FamilyMemberName*Relation)
+Q1> create a dataframe which contains only your brothers and sisters list.
+Q2> create a dataframe which contains only your parents list.
+Q3> create a dataframe which not contains your parents list.
+Q4> create a dataframe which not contains your brothers list.
+Q5> create a dataframe which contains either your brothers list or parents list.
+Q5> create a dataframe which contains your brothers list and parents list.
+
+
+3. Create a Vegfood_items.xlsx file  (atleast 10 names, columns are VegFoodName*Taste)
+Q1>create a dataframe which are  soups items
+Q2>create a dataframe which are curry items
+Q3>create a dataframe which are fry items
+Q4>create a dataframe which contains soups and fry items
+Q5>create a dataframe which not contains soups and fry items
+Q6>create a dataframe which contains either soup or fry items
+
+
+
+4. Create a NonVegfood_items.xlsx file  (atleast 10 names, columns are NonVegFoodName*Taste)
+Q1>create a dataframe which contains only chicken items
+Q2>create a dataframe which contains only mutton items
+Q3>create a dataframe which contains only Fry items
+Q4>create a dataframe which contains only Fry and chicken items
+Q5>create a dataframe which not contains Fry and chicken items
+Q6>create a dataframe which contains either Fry or mutton items
+
+5. Create a month_names.xlsx file (atleast 12 names, columns are MonthName*Season)
+Q1>create a dataframe which contains only winter season months
+Q2>create a dataframe which contains only summer season months
+Q3>create a dataframe which contains only rainy season months
+Q4>create a dataframe which contains only winter and summer season months
+Q5>create a dataframe which not contains summer and rainy season months
+Q6>create a dataframe which contains either winter or rainy items
+
+
+6. Create a flower_names.xlsx file  (atleast 12 names, columns are FlowercolourName_in_English^FlowercolourName_in_Hindi^FlowercolourName_in_Telugu)
+Q1>create a dataframe which contains only red colour flower list
+Q2>create a dataframe which contains only white colour flower list
+Q3>create a dataframe which contains only pink colour flower list
+Q4>create a dataframe which contains only red and pink colour list
+Q5>create a dataframe which not contains red and white colour list
+Q6>create a dataframe which contains either red or pink colour list
+
